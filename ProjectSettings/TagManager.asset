@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GlobalLight
+  - Flashlight
+  - PlayerLight
+  - DialogueBox
+  - DialogueText
+  - CharacterPortrait
+  - NameBox
+  - NameText
+  - FlashlightCharge
+  - CG
+  - Fade
+  - InputField
+  - InputPanel
+  - GameManager
+  - GameOver
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player Noncollision
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 405729391
+    locked: 0
+  - name: Player
+    uniqueID: 1182034045
+    locked: 0
+  - name: Decorations
+    uniqueID: 2819641535
+    locked: 0

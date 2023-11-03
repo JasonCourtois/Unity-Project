@@ -1,0 +1,9 @@
+// Blackboard Hint
+Welcome to CS 188!
+Today is April 10th, 2023!
+*--*
+// Bulletin Board Bin
+You died 10 days ago!!!!!
+[NAME] Jandy
+[IMG] Image Assets/TestPortrait
+That's not epic

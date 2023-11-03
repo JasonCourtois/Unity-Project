@@ -1,0 +1,23 @@
+[NAME] Testing testing
+[NAME] Loloololol
+oiefjwoeifjoweijf
+// This is a comment!
+uhfhhuhhefuwfehwiqiojqwoiijow
+lol
+*--*
+[NAME] Player
+[IMG] Image Assets/TestPortrait
+this should enable the name and picture
+still on
+[IMG] NONE
+Image is off!
+[IMG] Image Assets/TestPortrait
+picture on
+jus<i>t<b></i> pic</b> on
+[NAME] New name!
+now pic and name
+[NAME] NONE
+[ANIM] Image Assets/Test Animation:1
+just pic
+and done!
+jus<i>t<b>g<b><b><b> pic on  len: 11

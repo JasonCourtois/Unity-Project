@@ -1,0 +1,8 @@
+[NAME] Jandy
+[IMG] Image Assets/TestPortrait
+[SPEED] 0.08
+...
+[SPEED] 1
+Damn it!
+This room is too dark for me to see anything
+I wonder if I can find a light source around?
